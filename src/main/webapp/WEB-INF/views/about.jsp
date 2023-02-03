@@ -7,15 +7,9 @@
 <title>Home Page</title>
 </head>
 <body>
-    <h1>This is home page</h1>
+    <h1>This is about page</h1>
     <h1>Called by home Controller</h1>
-    <h1> Url/home </h1>
-    <%
-    String name=(String)request.getAttribute("name");
-    
-    %>
-    
-    <h1>Name Is <%=name%></h1>
+    <h1> Url/about </h1>
 
 </body>
 </html>
