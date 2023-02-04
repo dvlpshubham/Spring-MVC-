@@ -9,9 +9,9 @@
 <title>success</title>
 </head>
 <body>
-    <h1>Welcome ,${name }</h1>
-    <h1>Your email address is ${email }</h1>
-    <h1>Your paasword is ${paasword }</h1>
+    <h1>Welcome ,${user.userName }</h1>
+    <h1>Your email address is ${user.email }</h1>
+    <h1>Your paasword is ${user.userPaasword }</h1>
 
 </body>
 </html>

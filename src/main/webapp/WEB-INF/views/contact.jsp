@@ -33,7 +33,7 @@
   
     <div class="form-group">
     <label for="userPassword">User Password</label>
-    <input type="password" class="form-control" id="userPassword" aria-describedby="emailHelp" placeholder="Enter password" name="userPaaswords">
+    <input type="password" class="form-control" id="userPassword" aria-describedby="emailHelp" placeholder="Enter password" name="userPaasword">
     
   </div>
   
